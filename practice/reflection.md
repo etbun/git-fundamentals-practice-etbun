@@ -4,7 +4,7 @@ Write at least one complete sentence for each answer. Each answer must contain a
 
 ## 1. What is the difference between a commit and a push?
 
-Answer: a push chooses which files to save, and the commit is the action of saving a new instance
+Answer: a commit saves the repository locally, and a push saves a repository in github's cloud.
 
 ## 2. Why work on a branch instead of directly on `main`?
 
@@ -12,7 +12,7 @@ Answer: A branch could be for a new feature or something that is uncertain to be
 
 ## 3. What does a pull request make possible?
 
-Answer: pull requests make reviewing code with collaborators possible prior to committing them, helping to avoid conflicting requests.
+Answer: pull requests make reviewing code with collaborators possible prior to merging them, helping to avoid conflicting requests.
 
 ## 4. Which Git command helped you understand the repository's state, and what did it show you?
 
